@@ -68,6 +68,7 @@ This is Session 16 of **[Master Transformers from Scratch: BERT, ViT & AI Search
 The course builds up to this from the math of attention through BERT, so you understand what each tower is doing inside.
 
 More from the course:
+- [transformer-encoder-pytorch](https://github.com/seyedvahidmirnezami/transformer-encoder-pytorch): the full encoder block, and why positional encoding matters
 - [self-attention-from-scratch](https://github.com/seyedvahidmirnezami/self-attention-from-scratch): attention with real numbers, in NumPy and PyTorch
 - [vision-transformer-cassava](https://github.com/seyedvahidmirnezami/vision-transformer-cassava): fine-tune a Vision Transformer on Kaggle
 
